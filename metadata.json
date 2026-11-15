@@ -1,0 +1,6 @@
+{
+  "name": "Shop-Co E-Commerce Backend API",
+  "description": "Production-ready Node.js, Express.js, and MongoDB Atlas backend API for Shop-Co customer shopping website and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
